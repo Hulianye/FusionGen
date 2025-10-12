@@ -1,7 +1,7 @@
 ## FusionGen
 
 ## :speech_balloon: Annoucement
-- [2025.07.20] 🚩 **News: **  This paper is accepted by 2025 ICCV (DRL4Real)🎉🎉🎉. The manuscript of FusionGen will be found in [FusionGen: Feature Fusion-Based Few-Shot EEG Data Generation](https://openreview.net/forum?id=BjCTfr9xNA&noteId=w2MFqKRATP).
+- [2025.07.20] 🚩 **News:**  This paper is accepted by 2025 ICCV (DRL4Real)🎉🎉🎉. The manuscript of FusionGen will be found in [FusionGen: Feature Fusion-Based Few-Shot EEG Data Generation](https://openreview.net/forum?id=BjCTfr9xNA&noteId=w2MFqKRATP).
   
 ## 📌 Abstract
 Brain-computer interfaces (BCIs) provide potential for applications ranging from medical rehabilitation to cognitive state assessment by establishing direct communication pathways between the brain and external devices via electroencephalography (EEG). However, EEG-based BCIs are severely constrained by data scarcity and significant inter-subject variability, which hinder the generalization and applicability of EEG decoding models in practical settings. To address these challenges, we propose FusionGen, a novel EEG data generation framework based on disentangled representation learning and feature fusion. By integrating features across trials through a feature matching fusion module and combining them with a lightweight feature extraction and reconstruction pipeline, FusionGen ensures both data diversity and trainability under limited data constraints. Extensive experiments on multiple publicly available EEG datasets demonstrate that FusionGen significantly outperforms existing augmentation techniques, yielding notable improvements in classification accuracy.
