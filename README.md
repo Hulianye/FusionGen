@@ -8,10 +8,12 @@ Brain-computer interfaces (BCIs) provide potential for applications ranging from
 
 ![FusionGen](./FusionGen/pic/FusionGen.png)
 
-## 📩 Contact
-For any questions or collaborations, please feel free to reach out via `chenyuheng@hust.edu.cn` / `liudingkun@hust.edu.cn` or open an issue in this repository.
+![Gen_visual](https://github.com/Hulianye/FusionGen/blob/main/Gen_Visual.png)
 
 ## 🚀  Contributions
 - 🧩 We propose FusionGen, a few-shot EEG data generation framework that enhances generalization and scalability in brain–computer interface applications.
 - 🛠️ We introduce a feature matching fusion module that integrates cross-sample features in the latent representation space and reconstructs high-fidelity EEG signals from these fused embeddings. 
 - 📊 We validate FusionGen on multiple EEG datasets on MI and SSVEP paradigms, showing consistent accuracy improvements in few-shot scenarios.
+
+## 📩 Contact
+For any questions or collaborations, please feel free to reach out via `chenyuheng@hust.edu.cn` / `liudingkun@hust.edu.cn` or open an issue in this repository.
